@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @osamaaz1
+- 👋 Hi, I’m Osama Shahin
 - 👀 I’m interested in C++ and Python
 - 🌱 I’m currently learning AI 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on AI and DS projects.
 
 <!---
 osamaaz1/osamaaz1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

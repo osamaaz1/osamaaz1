@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Osama Shahin
-- 👀 I’m interested in C++ and Python
+- 👀 I’m interested in C++ & Python and Microcontrollers and embedded systems. 
 - 🌱 I’m currently learning AI 
 - 💞️ I’m looking to collaborate on AI and DS projects.
 
